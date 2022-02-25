@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning holy resolution a sermon preach'd before the King at Kensington, Decemb. 30, 1694 / by His Grace Thomas Lord Archbishop of Canterbury Elect.</title>
+            <author>Tenison, Thomas, 1636-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64352</idno>
+            <idno type="STC">Wing T690</idno>
+            <idno type="STC">ESTC T31087</idno>
+            <idno type="EEBO-CITATION">13769855</idno>
+            <idno type="OCLC">ocm 13769855</idno>
+            <idno type="VID">101736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 852:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning holy resolution a sermon preach'd before the King at Kensington, Decemb. 30, 1694 / by His Grace Thomas Lord Archbishop of Canterbury Elect.</title>
+                  <author>Tenison, Thomas, 1636-1715.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by H. Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"For the benefit of the poor."</note>
+                  <note>Probable date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXIX, 106 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101736:1"/>
+            <pb facs="tcp:101736:1" rendition="simple:additions"/>
+            <p>
+               <hi>Concerning Holy Reſolution.</hi> A SERMON PREACH'D before the KING, AT <hi>Kenſington,</hi> Decemb. 30, 1694.</p>
+            <q>
+               <bibl>PRALM 119. 106. Old Tranſlation.</bibl> 
+               <p>I have ſworn, and am ſtedfaſtly purpoſed to keep thy righteous Judgments.</p>
+               <bibl>New Tranſlation.</bibl>
+               <p>I have ſworn and I will perform it, that I will keep thy righteous Judgments.</p>
+            </q>
+            <p>By his Grace <hi>THOMAS</hi> Lord Arch-Biſhop of <hi>Canterbury</hi> Elect.</p>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>H. Hills,</hi> in <hi>Black-fryars,</hi> near the Water-ſide. For the Benefit of the Poor.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:101736:2"/>
+            <pb n="2" facs="tcp:101736:2"/>
+            <head>
+               <q>
+                  <bibl>PSALM 119. 106. Old Tranſlation.</bibl> 
+                  <p>I have ſworn, and am ſtedfaſtly purpoſed to keep thy righteous Judgments.</p>
+                  <bibl>New Tranſlation.</bibl> 
+                  <p>I have ſworn, and I will perform it, that I will keep thy righteous Judgments.</p>
+               </q>
+            </head>
+            <p>THESE are the Words of King <hi>David;</hi> and and the Saying is the more remarkable, by rea<g ref="char:EOLhyphen"/>ſon of the Condition of the Speaker: For, the more power, opportunity, temptation there is to break God's Commandments, the greater is the vertue of re<g ref="char:EOLhyphen"/>ligiouſly obſerving them.</p>
+            <p>This Prince was a Debtor to the Law, as one who had entred into a Covenant with the God of <hi>Iſrael;</hi> he renew'd this Obligation as often as, by the hand of the Sacrificer, he preſented an Offering to him. When he came to the Throne, he underſtood (no doubt) from the Book of God, to which he was no Stranger, that it was his Duty to write out a Copy of God's Law, and to keep it by him, and to read in it, at convenient Seaſons all the days of his Life; <hi>Deut.</hi> 17. 18, 19. in order to his better obſerving the Contents of it. He was in many troubles, <hi>Pſal.</hi> 132. 1, <hi>&amp;c.</hi> and thoſe troubles, (both Publick and Private) were, alſo, ex<g ref="char:EOLhyphen"/>ceeding great; and he made many ſolemn Promiſes to that God who could alone ſupport, comfort and deli<g ref="char:EOLhyphen"/>ver him; and by theſe he ſtrengthened his Obedience. Of ſuch Holy Reſolutions he hath given ſome ac<g ref="char:EOLhyphen"/>count
+<pb n="4" facs="tcp:101736:3"/>
+in the Words of the Text, Saying, <hi>I have ſworn and am ſtedfaſtly purpoſed to keep thy righteous Judgments.</hi>
+            </p>
+            <p>In this Pious Declaration are contained four thing well worthy our notice.</p>
+            <p>
+               <hi>Firſt,</hi> Herein is taken for granted a poſſibility o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> keeping the Law of God. [That is, according to the meaſures of a ſincere Man, and by the aſſiſtance o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God's grace; for without him we can do nothing.] <hi>David</hi> was a Man of better Underſtanding, then to take an impoſſibility upon him; and of greater Piety then to aſſume to himſelf a power of doing that which was righteous, and, in its nature, poſſible, without the help of his God.</p>
+            <p>
+               <hi>Secondly,</hi> We have here ſuppoſed the eternal Equity of God's Commands, which are called Righteous Judgments; they being the Reſults, not of the Arbitra<g ref="char:EOLhyphen"/>rineſs, but the Counſel of his Will.</p>
+            <p>
+               <hi>Thirdly,</hi> Here is further ſuggeſted the Rule by which Wiſe and Pious Men go in making Vows. They do not raſhly oblige themſelves to things either doubtful or unlawful, or if lawful, inexpedient: But they pro<g ref="char:EOLhyphen"/>ceed upon ſure grounds, vowing and reſolving to per<g ref="char:EOLhyphen"/>form ſuch things as God himſelf has enjoyned in his Righteous Judgments or Statutes.</p>
+            <p>
+               <hi>Fourtbly,</hi> The Royal <hi>Pſalmiſt</hi> does here expreſly ſet forth a moſt ſerious and fixed Reſolution of obeying theſe poſſible, theſe juſt and reaſonable Laws of that God whoſe Wiſdom and Clemency are equal to his Power. <hi>I have ſworn and am ſtedfaſtly purpoſed, to keep thy Righteous Judgments.</hi>
+            </p>
+            <p>I have choſen the laſt of theſe four Points for my preſent Subject, deſigning to diſcourſe (by God's Aſſi<g ref="char:EOLhyphen"/>ſtance) concerning Holy Reſolution, and the ſtrength<g ref="char:EOLhyphen"/>ning our ſelves by it in our religious Duty. And,</p>
+            <p>In the firſt place I ſhall enquire into the Nature of Reſolution, Then,</p>
+            <p>
+               <hi>Secondly,</hi> I ſhall ſhew how uſeful, how neceſſary a ſtedfaſt Holy Purpoſe is in the Courſe of our Lives.</p>
+            <pb n="5" facs="tcp:101736:3"/>
+            <p>
+               <hi>Thirdly,</hi> I ſhall conclude with a hearty exhortation to this Practice; endeavouring ſo to move you to it, that you being true to your Religious Obligations, may fi<g ref="char:EOLhyphen"/>nally obtain the Fruit of the exceeding great and pre<g ref="char:EOLhyphen"/>cious Promiſes of that God, and that <hi>Sun of Righteouſ<g ref="char:EOLhyphen"/>neſs, with whom there is no variableneſs nor ſhadow of turni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> For the Nature of Reſolution, it may be deſ<g ref="char:EOLhyphen"/>crib'd as an an Act or Habit of the Mind, as determi<g ref="char:EOLhyphen"/>ned with ſtrength vigour and ſteddineſs towards ſome Object, concerning which it was formerly doubtful, or towards which it was either indifferent or a verſe. It is the application of the Will to Buſineſs, in the Opini<g ref="char:EOLhyphen"/>on of ſome Moraliſts. It is the bent of the Mind which ſetteth on work the other Powers. It is as it were the Seal of the Inclination. St. <hi>Peter</hi> ſeems to deſcribe it as the fortifying of the Soul, in theſe Words, <hi>Foraſmuch <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Chriſt hath ſuffered for us in the fleſh, Arm your ſelves like<g ref="char:EOLhyphen"/>wiſe with the ſame mind;</hi> 1 Pet. 4. 1. or, with the like force of Holy Reſolution. Reſolution conſider'd in it ſelf, is neither good nor evil; but it is either according to the matter and the degree of it. It is of a like Na<g ref="char:EOLhyphen"/>ture with Zeal, which, ſo long as it is exercis'd in a good matter, and with due temper, is very commen<g ref="char:EOLhyphen"/>dable and useful, but, in a bad Cauſe, it is a moſt per<g ref="char:EOLhyphen"/>nicious Inſtrument; and, like Fire in an undue place, the more it rageth, it is the more deſtructive.</p>
+            <p>The Reſolution which I am to recommend, hath Religion for its Object, and Diſcretion for its Temper. To be peremptory in a Triſle is great folly and weak<g ref="char:EOLhyphen"/>neſs; to be reſolute in any Brutal way is hight Impiety. To be moved by the Reaſon of the Caſe is juſt com<g ref="char:EOLhyphen"/>plaince; To be ſtedfaſt and unmoveable in our Duty to God, and others and our ſelves, is Reſolution truly and properly ſo called.</p>
+            <p>To ſuch a ſort of Reſolution there are ſeveral Di<g ref="char:EOLhyphen"/>ſtempers in the Mind, Will and Affections which op<g ref="char:EOLhyphen"/>poſe themſelves.</p>
+            <pb n="6" facs="tcp:101736:4"/>
+            <p>The firſt is Slightneſs, Careleſneſs and indifferency of temper, which cauſeth ſo little regard to be had to Perſons or things, even thoſe of the greateſt moment, that it neither ſetteth the Heart upon them or againſt them. Such was the diſpoſition of <hi>Gallio the Deputy of Achaia.</hi> Acts 18. 17. Though he was a Man in Autho<g ref="char:EOLhyphen"/>rity, and acquainted with the Riot of which the <hi>Greeks</hi> were guilty in the Caſe of <hi>Soſthenes,</hi> yet he cared for none of theſe things.</p>
+            <p>The Second is, <hi>Hoeſitancic</hi> and doutfulneſs of Mind, a kind of <hi>halting betwixt God and Baal;</hi> a Spirit not wrought up to that pitch of Reſolution, to which the Prophet <hi>Elijah</hi> would have the purpoſe to riſe, in his Expoſtulation with the double minded Men of his time; <hi>how long halt ye between two Opinions? If the Lord be God, follow him, but if</hi> Baal, <hi>then follow him.</hi> 1 Kin. 18. 21.</p>
+            <p>A Third oppoſite is Fickleneſs and Inſtability; an humour which abounds where the Imagination governs, that beinp pleas'd not ſo much with things that are re<g ref="char:EOLhyphen"/>ally good, as with thoſe which are new. Thus ſome of the <hi>Iſraelites</hi> affected Novelty in Worſhip more than the <hi>Heathen</hi> themſelves. This mov'd the Prophet to upbraid them on this manner, <hi>hath a Nation changed their Gods, which are yet no Gods? but my People hath chan<g ref="char:EOLhyphen"/>ged their Glory for that which doth not profit.</hi> Jerem. 2. 11.</p>
+            <p>A Fourth Diſtemper is eaſineſs of Diſpoſition, and good Nature, commonly indeed, but very falſly ſo called. The Perſons whom God hath formed out of the ſofter Clay, go on tollerably well when they are left to themſelves, but they are ſoon drawn aſide by the ordinary perſwaſions of others, and much more by their Importunities. Some gentle Entreaties, and ſeem<g ref="char:EOLhyphen"/>ingly kind, but deceitful Words, bring them off from their Judgments and good Purpoſes. One of theſe ea<g ref="char:EOLhyphen"/>ſie Perſons is the ſimple one deſcrib'd in the Seventh Chapter of the <hi>Proverbs. The Harlot with her much fair Speech, cauſed him to yield; with the flattering of her Lips ſhe forced him. And he went after her ſtraightway, as an O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:101736:4"/>
+goeth to the Slaughter, or as a Fool to the Correction of the Stocks.</hi> Prov. 7. 7. 21, 22.</p>
+            <p>A Fifth Diſtemper which hindreth Reſolution, is Weakneſs and Faintneſs of purpoſe, whence divers ex<g ref="char:EOLhyphen"/>preſs themſelves in Phraſes of deſire rather then of bent and fixedneſs of mind. They ſay, we wiſh, we would be glad to have it ſo; but there are not Nerves ſtrong enough in their Hearts to cauſe them to proteſt, (tho in a good and neceſſary matter) that they are reſolv'd, and peremptorily determined. <hi>Agrippa</hi> is repreſented, in the <hi>Acts</hi> of the Apoſtles, <hi>(Acts</hi> 26. 28, 29.) as a Man of ſuch a temper. <hi>He ſaid unto Paul</hi> (who ſpake with a force of Evidence not to be reſiſted by a teacha<g ref="char:EOLhyphen"/>ble Mind) almoſt thou perſwadeſt me to be a Chriſti<g ref="char:EOLhyphen"/>an. To whom that Apoſtle thus dextrouſly apply'd himſelf; <hi>I would to God that not only thou, but alſo all that hear me this Day, were both almoſt and altogether ſuch as I am, except theſe Bonds.</hi>
+            </p>
+            <p>Sixthly, Nigh to the Nature of the forementioned Evil, is that of Fearfulneſs and Cowardice, in reference to the Difficulties which Men muſt go thorough, if they will enter into the Kingdom of Heaven. Men in whom this Paſſion ruleth, ſtart out of the ſtreight way, as ſoon as they eſpy the Croſs, tho' it be at ſome diſtance from them. They do indeed take up a Reſolution, but it is to go no further then they ſhall be attended by Eaſe and Safety; by worldly Pleaſure, Profit and Ho<g ref="char:EOLhyphen"/>nour. When Perſecution ariſeth by reaſon of the Word or Goſpel of Chriſt, <hi>by and by they are offended.</hi> They ſtum<g ref="char:EOLhyphen"/>ble at the Affliction, and forſake a good Cauſe rather than ſuffer for it.</p>
+            <p>
+               <hi>Laſtly,</hi> there is a temper, which (it is true) is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pretence to Reſolution, but it is as different from it as thoſe others which I have named; that is to ſay, Wilfulneſs, Stubbornneſs or Perverſeneſs, which main<g ref="char:EOLhyphen"/>trins the ſame ſtifneſs, be the matter what it will; This ariſeth partly from ſowerneſs in the frame of the Body, party from Ignorance which firſt blind<g ref="char:EOLhyphen"/>eth Men, and then makes them confident in a falſe way;
+<pb n="8" facs="tcp:101736:5"/>
+and partly from Pride which is very aſſuming and dogmatical, and will not ſuffer a Man either to ſee his Miſtake, or, when it is ſeen by him to own it of this re<g ref="char:EOLhyphen"/>fractory, ſtomackful and reſtive Humour were divers <hi>Jews</hi> in the days of <hi>Jeremiah,</hi> who were reſolute with<g ref="char:EOLhyphen"/>out Reaſon, ſaying, <hi>We will certainly do whatſoever thing goeth forth out of our Mouth. and yet every thing which pro<g ref="char:EOLhyphen"/>ceeded out of it was far from being Oracle.</hi> Jer. 18, 12. c. 44. <hi>v.</hi> 17.</p>
+            <p>Hitherto I have conſider'd the Nature of Reſoluti<g ref="char:EOLhyphen"/>on; and thoſe Diſtempers in the Faculties, Paſſions, and Tempers of Men, which are Enemies to it.</p>
+            <p>It is time in the</p>
+            <p>
+               <hi>Second place,</hi> To bring under our Conſideration, the uſefulneſs and the neceſſity of ſuch purpoſes as are both wiſe and holy, firm and ſtedfaſt in the courſe of our Lives, in order to the obtaining the end of our hopes, the Salvation of our Souls.</p>
+            <p>Here then I lay down theſe two things.</p>
+            <p>
+               <hi>Firſt,</hi> there is great power and ſtrength in Reſolution.</p>
+            <p>
+               <hi>Secondly,</hi> We have need of all the Aſſiſtance that it can poſſibly give us, towards the performing of our Duty.</p>
+            <p>In order to that, there is great Force in the Re<g ref="char:EOLhyphen"/>ſolution which is Natural, and much more in that which is Moral and Religious.</p>
+            <p>
+               <hi>Firſt,</hi> There is great Force in that kind of Reſoluti<g ref="char:EOLhyphen"/>on which is but Natural.</p>
+            <p>This appears from Experience, which ſhews us dai<g ref="char:EOLhyphen"/>ly, that the reſolute diſcourage all others; and are by nothing diſcouraged themſelves.</p>
+            <p>This is alſo ſhew'd by the very Nature of Reſolution before explain'd; for it is the Fortitude of the Mind in executing its Deſigns; it knitteth thoſe Powers of it, in which, before, there was a luxation. It is certain that there is great Difficulty oftentimes in reſolving, but when we are once reſolved, our Trouble is well nigh over. The main point is gained when we have gained the Will. The Wall of <hi>Jeruſalem</hi> (ſaith the
+<pb n="9" facs="tcp:101736:5"/>
+Book of <hi>Nehemiah) Nenem.</hi> 4. 6. went forward be<g ref="char:EOLhyphen"/>cauſe the People had a mind to the work. We are at firſt like Children who ſtand trembling upon the brink of a River; they deſire to ſtep in, but they fear to do ſo; and no ſooner have they done it, but the Fear va<g ref="char:EOLhyphen"/>niſhes, and Refreſhment and Pleaſure ſucceed.</p>
+            <p>Likewiſe, the power of Natural Reſolution is ma<g ref="char:EOLhyphen"/>nifeſt, from that Reverence which every Man has na<g ref="char:EOLhyphen"/>turally for his own Mind; I mean every Man who is not become brutiſh by evil Cuſtom, and in whom the very Ruins of underſtanding are not periſhed. An un<g ref="char:EOLhyphen"/>eaſineſs ariſes in the Minds of thoſe who deliberately break their own meaſures, and live in a War with their own Judgments and Purpoſes. St. <hi>Paul</hi> complaineth of the wretchedneſs of his Eſtate, <hi>Rom.</hi> 7. 19. whilſt his Affections and Appetites did in ſuch ſort over-rule the purpoſes of his Mind, than the good which he would do that he did not, and the evil which he would not do, that he did. There is naturally more great<g ref="char:EOLhyphen"/>neſs in the Mind, than to be willing ſolemnly to give it ſelf the Lye, to make Promiſes to it ſelf, and then pre<g ref="char:EOLhyphen"/>ſently to break them. Stedfaſtneſs therefore is many times the effect of holy vows and purpoſes, becauſe it is pain and grief to the Mind to be a daily witneſs of its own Inſtability; to bluſh as it were, before it ſelf, and to be condemned by its own Evidence, in its own Tri<g ref="char:EOLhyphen"/>bunal.</p>
+            <p>Again, The Strength of Natural Reſolution does in ſome ſort appear from the tender ſenſe men have of their Reputation. Their good Name is dear to them, and a point of Honour is that on which they naturally in<g ref="char:EOLhyphen"/>ſiſt: Now all VVeakneſs is diſhonourable; and to vow and reſolve, and by and by to violate ſuch Vows, ar<g ref="char:EOLhyphen"/>gues a weakneſs in the Judgment in reſolving without good ground, or a weakneſs in the VVill and Temper, in not proſecuting that which was off good ground, ſtedfaſtly purpoſed. VVhere this Infirmity (if I may call it by ſo ſoft a Name) is underſtood, it brings a Man preſently to ſhame and contempt.</p>
+            <pb n="10" facs="tcp:101736:6"/>
+            <p>Now if there be ſo much force in the Reſolution which is natural, there may be much more in that which is Moral and Religious. Even where the Con<g ref="char:EOLhyphen"/>ſcience is deprav'd in ſame degree, but not wholly wa<g ref="char:EOLhyphen"/>ſted; ſuch as have made holy Vows, and are willing to break them, would, notwithſtanding not ſeem to break them, either to themſelves or to the World; they would not directly cut the Knot in ſunder, but chuſe to untie it, by putting a new ſenſe upon the words, by uſing ſome ſubtle Diſtinction, by having recourſe to Equivocation, mental Reſervation, or ſome other evaſion ſuggeſted by the Sophiſtry of a deceitful Heart; not being able to endure the ſting of a downright Re<g ref="char:EOLhyphen"/>flection.</p>
+            <p>Where the Conſcience remains pure and undefiled, Holy Men are ſtill, with more true ſtrength, aſſiſted in their Duty by their Religious Purpoſes.</p>
+            <p>For <hi>firſt,</hi> ſuch have a mighty veneration for the great God, and fear to trifle with ſo ſacred a Majeſty, by taking up his Name in vain, by a frequent change of yea into nay, by vowing and reſolving and then diſannulling. Inſomuch that the weaker ſort of ſincere Chriſtians do dread to break a Vow, even becauſe it is a Vow, though haſtily made, and with inadvertance chuſing rather to be Martyrs to their own indiſcretion, than to depart from that Promiſe which they made in the heat of their zeal, the Name of him before whom they tremble, the ever laſting God, Faithful and Juſt, <hi>the ſame to day, yeſterday and for ever.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Religion is the higheſt Principle by which Men can act; there is therefore in holy Reſolution the greateſt ſtrength. The Religious have for their ſcope the beſt and higheſt Ends and Intereſts, the glory of God, who is the chief Good, the benefit of all reaſo<g ref="char:EOLhyphen"/>nable Creatures, the preſent and everlaſting happineſs of their Perſons; and true Religion is a certain way to theſe bleſſed Ends. 1 <hi>Tim.</hi> 6 9. Now if they that will be rich in this World, decline no Labours, run all
+<pb n="11" facs="tcp:101736:6"/>
+manner of Hazards, are not diſcourag'd by Rocks and Shelves, by Waves and Tempeſts, or Pirates in effect as dangerous as they; whilſt they aim only at things temporal, which periſh in the uſing; ſhall not thoſe have greater courage, and firmer reſolution, who pro<g ref="char:EOLhyphen"/>poſe to themſelves the obtaining <hi>Treaſures</hi> which fade not away and may fully depend upon the promiſes of God in well-doing, and on the grace of his bleſſed Spi<g ref="char:EOLhyphen"/>rit for the enabling them to do well, if they are not wanting to the power already given them?</p>
+            <p>
+               <hi>Obj.</hi> But I expect that it ſhould be objected, That all this ſort of reaſoning, if it be admitted to be ſpecious, is notwithſtanding falſe. For (as they may continue to ſpeak) the purpoſes of Mankind are vain and un<g ref="char:EOLhyphen"/>certain. They vaniſh as the Morning dew upon the glit<g ref="char:EOLhyphen"/>tering of a new Temptation. Is it not daily obſerv'd, that divers who are in danger of death, and dread to go forth into a vaſt Eternity, after having led immor<g ref="char:EOLhyphen"/>ral Lives do weep and pray, and make many Prote<g ref="char:EOLhyphen"/>ſtations of becoming new Men, if God ſhall be pleaſed to ſpare and reſtore them? And when God has reſto<g ref="char:EOLhyphen"/>red them, the World has been convinc'd that all their tears and prayers and promiſes, were the effects of fear; and they have return'd at once to their Health, and to their Vices.</p>
+            <p>To this it may be anſwer'd.</p>
+            <p>
+               <hi>Anſwer.</hi> Firſt, That if Men will not be altogether Chriſtians by the help of holy purpoſes, they will be much leſs ſuch without them. If there is not force e<g ref="char:EOLhyphen"/>nough perfectly to amend the Lives of Men, yet how<g ref="char:EOLhyphen"/>ever they are ſome check and reſtraint to them. And he who ſays a Cord is ſtrong, does not pretend to ſay that it is impoſſible to be broken.</p>
+            <p>
+               <hi>Secondly,</hi> Thoſe Men who are ſo falſe to their Vows, and ſo unſtable in their ways, are to be thought not to have built their purpoſes upon a right Foundation. Perhaps the Foundation wanted Breadth. It may be, they reſolv'd againſt many Sins, but not againſt that
+<pb n="12" facs="tcp:101736:7"/>
+which did moſt eaſily beſet them, and was moſt agree<g ref="char:EOLhyphen"/>able to Fleſh and Blood. And this one evil Spirit left in poſſeſſion, may have brought back all the reſt.</p>
+            <p>Perhaps the Foundation wanted Firmneſs, they might take up their Reſolutions in the heat of their Affection, which is ſuddenly kindled, and ſuddenly dies away.</p>
+            <p>But, for ſuch as have hated every Evil way, and upon the moſt mature deliberation, dedicated them<g ref="char:EOLhyphen"/>ſelves, Souls and Bodies to Chriſt, without any reſerve, it is not likely that they ſhould be ſo unſteddy, and ſo much given to change for the worſe. Among the Primitive Chriſtians there were Armies of Martyrs, who were faithful to the Death. <hi>Pliny</hi> 
+               <note n="*" place="bottom">Plin. lib. 10. Ep. 97. Pervicamcerie &amp; inflexibilem obſtinationem debe<g ref="char:EOLhyphen"/>re puniri non dubitars.</note> reproach'd them as obſtinate, but their perſeverance aroſe from the ſtrength of their Faith, the Heartineſs of their Love, their ſincere Reſoluton to keep their Baptiſmal Vow, in deſpight of the World, the Fleſh, and the Devil; and (that which made all theſe effectual) the extra<g ref="char:EOLhyphen"/>ordinary Grace of God.</p>
+            <p>Now if there be any Strength in natural Reſolution, and more in that which is moral and Religious, (and more ſtill there muſt be when one is added to the other certainly 'tis our Wiſdom to bind our ſelves with this double Cord; for we have need of all the Aſ<g ref="char:EOLhyphen"/>ſiſtance we can poſſibly get, and that is a ſecond Conſi<g ref="char:EOLhyphen"/>deration.</p>
+            <p>We come into the World with ſenſual Inclinations. Our natural Paſſions are apt to move with intemperate Violence. Our Luſts and Appetites, till Reaſon and Grace ſubdue them, are ſtrong and impetuous. Our Mind is generally ſpeaking, over-grown very early with the prejudices and indiſcretions of youth; we are firſt accuſtomed to Folly and Vanity, before we are acquaint<g ref="char:EOLhyphen"/>ed with Chriſtian Piety, and Solid Vertue; and to ma<g ref="char:EOLhyphen"/>ny ill Cuſtoms we are united, as the Soul is to the Bo<g ref="char:EOLhyphen"/>dy
+<pb n="13" facs="tcp:101736:7"/>
+with a very intimate Union, though we know not how. Our Senſes and Fancy treaſure up many idle, extravagant, and deceitful Images. This World be<g ref="char:EOLhyphen"/>ing preſent hath great influence upon our Senſe and Imagination, whilſt <hi>Faith is the Evidence of things not ſeen.</hi> All places abound with evil Men, who live <hi>with<g ref="char:EOLhyphen"/>out God in the World,</hi> and who by hurtful Perſuaſions, and bad examples, entice the unwary into a wicked con<g ref="char:EOLhyphen"/>federacy with themſelves; and there are Legions of <hi>ſpiritual Enemies,</hi> who envy God the Glory, and Man the Happineſs of a ſober, righteous, and godly life.</p>
+            <p>Wherefore, in ſo many and ſo great perils, amidſt which the frailty of our Nature is apt to ſupplant our Faith, it behoves us to uſe all manner of good means (and therefore that amongſt others that of holy Reſolu<g ref="char:EOLhyphen"/>tion) that by God's Bleſſing upon ſuch Inſtruments, we may be ſupported in all Dangers, and carried ſafe through all Temptations, To the ſpeedy uſe therefore of a holy purpoſe, I proceed in the</p>
+            <p>
+               <hi>Third Place,</hi> to exhort you, beſeeching you as <hi>Barnabas</hi> did thoſe of <hi>Antiock, that with full purpoſe of Heart you would cleave unto the Lord;</hi> Acts 11. 15. the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt. It is true, as to the general end of Man, which is his Perſonal Happineſs, there is no need of a<g ref="char:EOLhyphen"/>ny vehement Perſwaſive to it; no great need of delibe<g ref="char:EOLhyphen"/>ration and Reſolution of Mind. Nature it ſelf hath fix'd and determin'd this point, that it is as neceſſa<g ref="char:EOLhyphen"/>ry to be happy, as it is to be at all. But Mankind is not ſo ſtedfaſtly reſolv'd upon the means as the end. Di<g ref="char:EOLhyphen"/>vers would be happy hereafter as Angels and Saints, and yet live here as Beaſts. But without a Holy Pur<g ref="char:EOLhyphen"/>poſe, and a ſuitable Performance, <hi>no Man ſhall ſee the Lord.</hi> Take therefore to you Words, and ſay with <hi>Joſhua, as for me and my Houſe we will ſerve the Lord.</hi> Joſh. 24. 15. Uſe the Language of <hi>Balaam;</hi> but let it pro<g ref="char:EOLhyphen"/>ceed out of a more righteous Heart: <hi>If any one would give me his Houſe full of Silver and God, I cannot go beyond the Word of the Lord my God, to do leſs or more.</hi> Numb. 2.
+<pb n="14" facs="tcp:101736:8"/>
+18. With <hi>Caleb</hi> and <hi>Joſhua</hi> follow the Lord wholly, and you will enter into a better <hi>Land of Promiſe</hi> than they at firſt did. <hi>Engage your Hearts to approach unto the Lord,</hi> and he will draw nigh unto you, and make what you do to proſper.</p>
+            <p>In purpoſing on this matter, be pleaſed to obſerve theſe few Directions:</p>
+            <p>
+               <hi>Firſt,</hi> When <hi>Difficulties</hi> in Religion diſcourage you, op<g ref="char:EOLhyphen"/>poſe <hi>Neceſſity</hi> to them, ſaying, Let come on it what will, we <hi>muſt</hi> ſerve God, we <hi>muſt</hi> ſave our Souls. Jer. 30. 31. It muſt be confeſſed, that when thoſe who have been en<g ref="char:EOLhyphen"/>chanted with ſinful Pleaſures, begin to think of reform<g ref="char:EOLhyphen"/>ing themſelves, there is a great ſtrife betwixt the Fleſh and the Spirit, and they are ready to think they cannot by any means get the Victory, and they cry out with Anxiety, and ſay, <hi>Men and Brethren, what ſhall we do?</hi> What ſhould they do? Doubtleſs they ſhould encourage themſelves in God, who is greater than thoſe who are againſt them, and will come in to their Aid, if they pray to him, and re<g ref="char:EOLhyphen"/>peat their Holy Vows in ſincerity of Heart. It can<g ref="char:EOLhyphen"/>not be denied, but that the firſt Steps in our Aſcent towards Chriſtian Perfection are very laborious; but in due time we ſhall make good Progreſs if we faint not. <hi>S. Paul,</hi> when at firſt he found his Mind ſtrug<g ref="char:EOLhyphen"/>ling betwixt Grace and Nature, cried out as a Man in great diſtreſs, who ſhall <hi>deliver me from the body of this Death?</hi> Rom. 7. 24. Yet at lenth the Grace of God did carry his Reſolution to ſuch a Degree of Power, that he chang'd his Complaint into the Tri<g ref="char:EOLhyphen"/>umph of theſe Words, <hi>I can do all things through Chriſt, who ſtrengthens me.</hi> Philip. 4. 13.</p>
+            <p>
+               <hi>Secondly,</hi> In all <hi>Temptations</hi> maintain ſuch a Preſence of Mind as may enable you to reflect upon the Re<g ref="char:EOLhyphen"/>ſolutions which you have formerly taken up againſt
+<pb n="15" facs="tcp:101736:8"/>
+them. Commune with your own Hearts after this manner. Is not this the very Evil which, upon due Conſideration, we have ſo often vow'd to forſake? How can we thus contradict our ſelves? How ſhall we do this great Wickedneſs, and ſin againſt our Conſci<g ref="char:EOLhyphen"/>ence, our Baptiſmal Engagement, our Righteous Purpoſes, and our Holy, Juſt God, who keepeth his Promiſe for ever.</p>
+            <p>
+               <hi>Thirdly,</hi> When you have taken a Reſolution to lead a more Chriſtian Life, abſtain, at leaſt for a time, from the familiar <hi>Converſation</hi> of ſuch who ac<g ref="char:EOLhyphen"/>count it a Crime not to be diſſolute, and endeavour, by mockery, to diſcourage all Seriouſneſs in Religi<g ref="char:EOLhyphen"/>on. The prophane and ſcurrulous Breath of ſuch Men, who are of a party for Vice, may drive back again that Diſeaſe, which was coming forth by Confeſ<g ref="char:EOLhyphen"/>ſion and Repentance.</p>
+            <p>
+               <hi>Fourthly,</hi> Think frequently of the ſolemn Vow, Promiſe and Profeſſion which you made in <hi>Baptiſm,</hi> and renew it often in the Holy <hi>Communion.</hi> By it all worthy Partakers are <hi>ſtrengthned</hi> and <hi>refreſh<g ref="char:EOLhyphen"/>ed.</hi>
+            </p>
+            <p>
+               <hi>Laſtly,</hi> Say not, all this we will do, though not now, yet in a <hi>convenient Seaſon.</hi> It may be that convenient Seaſon will never come; for <hi>who knows what a Day may bring forth?</hi> How fooliſh are ſuch, and ignorant, who ſay in effect, We <hi>reſolve</hi> to be good, but not till it be more difficult to be ſo; not till Cuſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om in Sin hath hardned our Hearts, and ſtiffned our Necks into Inflexibility? <hi>O ye Sons of Men, how long will ye love Vanity, and ſeek after Leaſing?</hi> Imitate ra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Holy <hi>David,</hi> and attend to his Words in the <hi>119<hi rend="sup">th</hi>
+               </hi> Pſalm; <hi>I thought on my Ways, and turned my Feet unto <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>by Teſtimonies. I made haſt, and delayed not to keep thy Commandments. I have ſaid,</hi> (or fully determined) <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat I would keep thy Words.</hi>
+            </p>
+            <pb n="16" facs="tcp:101736:9"/>
+            <p>
+               <hi>Finally;</hi> Let us pray unto Almighty God in ſome ſuch Words as theſe; <q>Lord, we believe; Lord help our weak Belief. Lord, we reſolve; Lord; ſtrengthen our Holy Reſolutions. And, as by thy Grace preventing us, thou doſt put into our Hearts good Deſires and Purpoſes; ſo, by thy continual Help, make us able to bring the ſame to good Ef<g ref="char:EOLhyphen"/>fect, through Jeſus Chriſt our Lord; to whom with the Father and the Holy Ghoſt, be all Ho<g ref="char:EOLhyphen"/>nour and Glory now and for ever. <hi>Amen.</hi>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101736:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
